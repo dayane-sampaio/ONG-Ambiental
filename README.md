@@ -22,3 +22,13 @@ Este projeto consiste em um site institucional para uma organização não-gover
 - Página “Cadastro” para captação de voluntários ou interessados  
 - Layout responsivo  
 - Conteúdo voltado à sensibilização ambiental  
+
+## Observações 📚
+
+Este é um projeto acadêmico, sem fins comerciais, desenvolvido para fins de aprendizado e demonstração de estruturação de páginas HTML.
+Pode ser expandido futuramente com CSS3 e JavaScript para aprimorar o design e a interatividade.
+
+## Autora
+
+Dayane Sampaio Nunes
+Projeto desenvolvido como parte de uma atividade acadêmica.
