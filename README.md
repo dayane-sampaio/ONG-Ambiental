@@ -31,4 +31,5 @@ Pode ser expandido futuramente com CSS3 e JavaScript para aprimorar o design e a
 ## Autora
 
 Dayane Sampaio Nunes
-Projeto desenvolvido como parte de uma atividade acadêmica.
+
+<em>Projeto desenvolvido como parte de uma atividade acadêmica.</em>
