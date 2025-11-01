@@ -9,12 +9,14 @@ Este projeto consiste em um site institucional para uma organização não-gover
 - Estrutura de diretórios simples para facilitar edição e manutenção  
 
 ## Estrutura do repositório  
+<pre class="block-text__code" dir="ltr">
 ├── assets/
 │ └── images/ ← Imagens usadas no site
 ├── cadastro.html ← Página de cadastro de interessados ou voluntários
 ├── index.html ← Página principal (home)
 ├── projetos.html ← Página de apresentação dos projetos ambientais
 └── README.md ← Este arquivo
+</pre>
 
 ## Funcionalidades  
 - Página inicial com resumo das ações da ONG  
